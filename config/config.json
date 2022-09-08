@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": null,
+    "password": null,
+    "database": "sqlite3database.db",
+    "dialect": "sqlite",
+    "storage": "/Users/huangjiaming/Library/Application Support/Electron/51/documents/userid_1010/data.db"
+  }
+
+}
